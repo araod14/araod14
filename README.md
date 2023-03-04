@@ -1,10 +1,14 @@
-- 👋 Hola, soy Daniel Arao, ingeniero químico y desarrollador en Python
-- 👀 Estoy interesado en el desarrollo web, despliegue de aplicaciones e integraciones con APIs
-- 🌱 Actualmente aprendiendo frameworks para el desarrollo backend con Python
-- 💞️ Me gustaria aportar en proyectos donde pueda aplicar mis conocimientos en web scraping, analisis de datos e integraciones con APIs de terceros
-- 📫 Mas de mi, via Twitter Araodev 
+- 👋 Hi, I'm Daniel Arao, chemical engineer and Python developer
+- 👀 I am interested in web development, application deployment and API integrations
+- 🧑‍🔧 I currently work in process control in the oil industry, PLC, TPS3000 Honeywell and FSC
+- 🦾 Apart from being self-taught, I study at Platzi
+- 🌱 Currently learning frameworks for backend development with Python
+- 💞️ I would like to contribute to projects where I can apply my knowledge in web scraping, data analysis and integrations with third-party APIs
+- 📫 More about me, via Twitter Araodev
 
 <!---
 araod14/araod14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
