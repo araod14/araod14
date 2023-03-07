@@ -5,7 +5,8 @@
 :factory: I currently work in process control in the oil industry, PLC, TPS3000 Honeywell and FSC (Fail Safety Controller) <br />
 🦾 Apart from being self-taught, I'm studying at Platzi <br />
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araod14&show_icons=true&theme=gradient)<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araod14&show_icons=true&theme=Gradient)<br />
+<br />
 Technologies & Tools
 ------
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
