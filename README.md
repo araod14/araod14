@@ -6,6 +6,10 @@
 - 💞️ I would like to contribute to projects where I can apply my knowledge in web scraping, data analysis and integrations with third-party APIs
 - 📫 More about me, via Twitter Araodev
 
+
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
+
 <!---
 araod14/araod14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
