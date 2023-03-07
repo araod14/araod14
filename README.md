@@ -1,14 +1,11 @@
- #Hi, I'm Daniel Arao 
+ Hi, I'm Daniel Arao 
  ------
-- 👋 Hi, I'm Daniel Arao, chemical engineer and Python developer
-- 👀 I am interested in web development, application deployment and API integrations
-- 🧑‍🔧 I currently work in process control in the oil industry, PLC, TPS3000 Honeywell and FSC
-- 🦾 Apart from being self-taught, I'm studying at Platzi
-- 🌱 Currently learning frameworks for backend development with Python
-- 💞️ I would like to contribute to projects where I can apply my knowledge in web scraping, data analysis and integrations with third-party APIs
-- 📫 More about me, via Twitter Araodev
+:point_right: Chemical engineer and Python developer
+:runner: I am interested in web development, web scraping, data analysis and integrations with third-party APIs
+:factory: I currently work in process control in the oil industry, PLC, TPS3000 Honeywell and FSC
+🦾 Apart from being self-taught, I'm studying at Platzi
 
-##Skills
+Technologies & Tools
 ------
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
