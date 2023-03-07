@@ -5,7 +5,6 @@
 🦾 Apart from being self-taught, I'm studying at Platzi <br />
 <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araod14&show_icons=true&theme=merko)<br />
-<br />
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
