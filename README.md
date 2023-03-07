@@ -1,4 +1,4 @@
-# Hi, I'm Daniel Arao
+## Hi, I'm Daniel Arao
 :point_right: Chemical engineer and Python developer <br />
 :runner: I am interested in web development, web scraping, data analysis and integrations with third-party APIs <br />
 :factory: I currently work in process control in the oil industry, PLC, TPS3000 Honeywell and FSC (Fail Safety Controller) <br />
