@@ -1,7 +1,7 @@
 ![Header](/header.png)
 :point_right: Chemical engineer and Python developer <br />
 :runner: I am interested in web development, web scraping, data analysis, machine learning and integrations with third-party APIs <br />
-:factory: I currently work in process control in the oil industry and as freelancer developer <br />
+:factory: I currently work in process control in the oil industry and freelancer developer <br />
 🦾 Apart from being self-taught, I'm studying at Platzi <br />
 <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araod14&show_icons=true&theme=merko)<br />
