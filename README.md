@@ -1,6 +1,6 @@
 ![Header](/header.png)
 :point_right: Chemical engineer and Python developer <br />
-:runner: I am interested in web development, web scraping, data analysis, machine learning, backend and integrations with third-party APIs <br />
+:runner: I am interested in, web scraping, data analysis, automation, backend and integrations with third-party APIs <br />
 :factory: I currently work in process control in the oil industry and freelancer developer <br />
 🦾 Apart from being self-taught, I'm studying at Platzi <br />
 <br />
